@@ -1,0 +1,40 @@
+_repo: Ben-Pepper_35178
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wireman, Eugenie M.
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '37513'
+    url: http://www.gutenberg.org/2009/agents/37513
+covers:
+- cover_type: archival
+  image_path: 35178-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+description: Ben Pepper, eldest-born of Mother Pepper's brood, helps Henrietta Van
+  Ruypen after an accident, and in return, she supplies gifts and clothing to the
+  poor, including her long lost grandson, Pip.
+gutenberg_issued: '2011-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35178'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Five Little Peppers (Fictitious characters) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+- !lcsh 'Benefactors -- Juvenile fiction'
+title: Ben Pepper
+url: http://www.gutenberg.org/ebooks/35178
